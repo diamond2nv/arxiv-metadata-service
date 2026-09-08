@@ -1,5 +1,9 @@
 # arXiv Metadata Service
 
+[![License](https://img.shields.io/github/license/diamond2nv/arxiv-metadata-service)](https://github.com/diamond2nv/arxiv-metadata-service/blob/master/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://github.com/diamond2nv/arxiv-metadata-service/blob/master/pyproject.toml)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/diamond2nv/arxiv-metadata-service)
+
 Local arXiv full metadata retrieval service. Based on Kaggle's [arXiv Academic Paper Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv) (2.69 million papers, updated weekly), builds a SQLite FTS5 full-text search engine with REST API.
 
 ## Install
